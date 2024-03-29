@@ -29,7 +29,7 @@ The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dat
 - `README.md`: Markdown file containing project overview, dataset information, technologies used, project structure, and results.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/breast-cancer-prediction.git`
+1. Clone the repository: [git clone https://github.com/Arya0212/breast-cancer-prediction.git]
 2. Navigate to the project directory: `cd breast-cancer-prediction`
 3. Open and run the `breast_cancer_prediction.ipynb` notebook using Jupyter or any compatible environment.
 
